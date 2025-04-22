@@ -16,4 +16,6 @@ You can access the API documentation [here](https://sfg-beer-works.github.io/bre
 ![image](https://github.com/user-attachments/assets/bcd0e270-6077-4417-9a42-13744d926d2e)
 ![image](https://github.com/user-attachments/assets/5c43288a-3a47-44af-afa7-6d8a19bbb8bc)
 ![image](https://github.com/user-attachments/assets/3c9b9f7a-c702-46ed-9976-ac876111e8c7)
-![image](https://github.com/user-attachments/assets/02b487b8-6f13-48a9-8633-923be890c011)
+![image](https://github.com/user-attachments/assets/41920191-e5a0-4e36-ab6a-752d2dd9c196)
+![image](https://github.com/user-attachments/assets/5841cecd-0525-4a6b-9cb6-bf292df7066b)
+![image](https://github.com/user-attachments/assets/01b06503-fcf1-482d-8542-47dec04dc468)
