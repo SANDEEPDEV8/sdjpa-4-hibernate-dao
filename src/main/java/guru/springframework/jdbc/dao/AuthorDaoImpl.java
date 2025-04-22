@@ -38,6 +38,7 @@ public class AuthorDaoImpl implements AuthorDao {
     public Author saveNewAuthor(Author author) {
         EntityManager em = getEntityManager();
         em.getTransaction().begin();
+        //em.joinTransaction();
         em.persist(author);
         em.flush();
         em.getTransaction().commit();
